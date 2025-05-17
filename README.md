@@ -29,3 +29,5 @@ Finalmente, a lupa implacável do Agente Revisor entrou em ação. Com olhar cr�
 Ao final do processo, o perito judicial recebeu não apenas um documento, mas um dossiê completo e confiável. O laudo sobre o Edifício Solar, fruto da inteligência colaborativa dos quatro agentes, era uma peça robusta, clara e inquestionável. Ele não apenas apresentava um valor justo para o imóvel, mas também detalhava suas condições estruturais com precisão, dissipando as dúvidas e pavimentando o caminho para uma resolução justa do litígio.
 
 Assim, a busca pela verdade nos detalhes do concreto encontrou um poderoso aliado na inteligência artificial, mostrando que a tecnologia, a serviço da expertise humana, pode iluminar os caminhos da justiça com clareza e precisão.
+
+# USAR AGORA! https://geradordelaudoprojetoalura.streamlit.app/
